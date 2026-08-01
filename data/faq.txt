@@ -1,0 +1,27 @@
+What are your office hours?
+
+Our office is open from 9 AM to 6 PM.
+
+----------------------------------------
+
+Where is the office?
+
+The office is located in Salt Lake, Kolkata.
+
+----------------------------------------
+
+How can I reset my password?
+
+Click on Forgot Password.
+
+----------------------------------------
+
+Who is the CEO?
+
+John Smith.
+
+----------------------------------------
+
+What technologies do we use?
+
+Node.js, React, MongoDB and Docker.
