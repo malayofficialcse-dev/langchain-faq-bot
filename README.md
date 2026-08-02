@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="./assets/ban2.png" alt="LangChain FAQ Assistant Architecture" width="1000"/>
+</p>
+
+<p align="center">
   <strong>A Retrieval-Augmented Generation (RAG) application built with LangChain, TypeScript, Ollama, and ChromaDB.</strong>
 </p>
 
