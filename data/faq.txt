@@ -1,27 +1,338 @@
-What are your office hours?
+# Company Knowledge Base
 
-Our office is open from 9 AM to 6 PM.
+## Company Information
 
-----------------------------------------
+Company Name: TechNova Solutions
 
-Where is the office?
+TechNova Solutions is a software development company specializing in cloud applications, artificial intelligence, web development, and enterprise software solutions.
 
-The office is located in Salt Lake, Kolkata.
+Head Office:
+Salt Lake Sector V,
+Kolkata,
+West Bengal,
+India
 
-----------------------------------------
+Founded: 2020
 
-How can I reset my password?
+CEO: John Smith
 
-Click on Forgot Password.
+CTO: Sarah Johnson
 
-----------------------------------------
+Support Email:
+[support@technova.com](mailto:support@technova.com)
 
-Who is the CEO?
+Sales Email:
+[sales@technova.com](mailto:sales@technova.com)
 
-John Smith.
+Official Website:
+https://www.technova.com
 
-----------------------------------------
+---
 
-What technologies do we use?
+## Office Hours
 
-Node.js, React, MongoDB and Docker.
+Monday to Friday:
+9:00 AM to 6:00 PM
+
+Saturday:
+10:00 AM to 2:00 PM
+
+Sunday:
+Closed
+
+National holidays are observed according to the Government of India holiday calendar.
+
+---
+
+## Customer Support
+
+Customer support is available through:
+
+* Email
+* Live Chat
+* Phone Support
+
+Support Timing:
+
+Monday to Friday
+
+9:00 AM – 6:00 PM
+
+Emergency support is available only for Enterprise customers.
+
+---
+
+## Password Reset
+
+If you forget your password:
+
+1. Click on the "Forgot Password" button on the login page.
+2. Enter your registered email address.
+3. You will receive a password reset link.
+4. Create a new password.
+5. Log in again.
+
+Password reset links expire after 30 minutes.
+
+---
+
+## Employee Leave Policy
+
+Employees receive:
+
+* 20 Paid Leaves per year
+* 12 Casual Leaves
+* 10 Sick Leaves
+* Maternity Leave according to company policy
+* Paternity Leave of 15 days
+
+Unused paid leaves can be carried forward up to 10 days.
+
+---
+
+## Technologies Used
+
+Backend
+
+* Node.js
+* Express.js
+* TypeScript
+
+Frontend
+
+* React
+* Next.js
+* Tailwind CSS
+
+Database
+
+* PostgreSQL
+* MongoDB
+* Redis
+
+Message Broker
+
+* Apache Kafka
+
+Containerization
+
+* Docker
+* Docker Compose
+
+Orchestration
+
+* Kubernetes
+
+Cloud
+
+* AWS
+* Azure
+
+Infrastructure
+
+* Terraform
+
+Monitoring
+
+* Prometheus
+* Grafana
+
+Logging
+
+* ELK Stack
+
+Version Control
+
+* Git
+* GitHub
+
+CI/CD
+
+* GitHub Actions
+
+Artificial Intelligence
+
+* LangChain
+* Ollama
+* ChromaDB
+* Llama 3.2
+
+---
+
+## Internet Policy
+
+Employees may use company internet for work-related activities.
+
+Downloading illegal software or accessing restricted websites is prohibited.
+
+---
+
+## Laptop Policy
+
+Every employee receives:
+
+* Company Laptop
+* Company Email
+* VPN Access
+* GitHub Account
+* Slack Workspace
+
+Employees are responsible for maintaining company devices.
+
+---
+
+## Work From Home Policy
+
+Employees may work from home for up to three days per week with manager approval.
+
+Internet connectivity and a proper working environment are required.
+
+---
+
+## Attendance Policy
+
+Working hours:
+
+9:00 AM to 6:00 PM
+
+Grace Period:
+
+15 minutes
+
+Late arrivals exceeding three times in a month require manager approval.
+
+---
+
+## Recruitment Process
+
+Hiring process:
+
+1. Resume Screening
+2. Online Assessment
+3. Technical Interview
+4. HR Interview
+5. Offer Letter
+6. Background Verification
+
+---
+
+## Internship Program
+
+Internship Duration:
+
+3 to 6 months
+
+Technologies:
+
+* Java
+* Python
+* Node.js
+* React
+* AI
+* Machine Learning
+
+Interns receive mentorship and work on real-world projects.
+
+---
+
+## Project Development Process
+
+The company follows Agile methodology.
+
+Sprint Duration:
+
+2 weeks
+
+Daily Stand-up:
+
+10:00 AM
+
+Code Review:
+
+Mandatory before merging.
+
+Pull Requests require approval from at least one senior developer.
+
+---
+
+## Security Policy
+
+Two-Factor Authentication is mandatory.
+
+Passwords must contain:
+
+* Minimum 8 characters
+* One uppercase letter
+* One lowercase letter
+* One number
+* One special character
+
+Passwords expire every 90 days.
+
+---
+
+## Frequently Asked Questions
+
+Q: Where is the company located?
+
+A: TechNova Solutions is located in Salt Lake Sector V, Kolkata.
+
+---
+
+Q: Who is the CEO?
+
+A: John Smith is the CEO.
+
+---
+
+Q: What are the office timings?
+
+A: Monday to Friday from 9:00 AM to 6:00 PM.
+
+---
+
+Q: What technologies are used?
+
+A: Node.js, React, PostgreSQL, MongoDB, Redis, Kafka, Docker, Kubernetes, Terraform, LangChain, Ollama, and ChromaDB.
+
+---
+
+Q: How can I contact customer support?
+
+A: Contact support using [support@technova.com](mailto:support@technova.com).
+
+---
+
+Q: Does the company provide laptops?
+
+A: Yes, every employee receives a company laptop.
+
+---
+
+Q: Is work from home allowed?
+
+A: Yes, employees may work from home up to three days a week with approval.
+
+---
+
+Q: What cloud platforms are used?
+
+A: AWS and Microsoft Azure.
+
+---
+
+Q: Which AI technologies are used?
+
+A: LangChain, Ollama, Llama 3.2, and ChromaDB.
+
+---
+
+Q: Which databases are used?
+
+A: PostgreSQL, MongoDB, and Redis.
+
+---
+
+Q: Which DevOps tools are used?
+
+A: Docker, Kubernetes, Terraform, GitHub Actions, Prometheus, Grafana, and ELK Stack.
