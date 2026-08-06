@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "ingest": "tsx src/ingest.ts",
+    "chat": "tsx src/chat.ts",
+    "start": "npm run chat",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
